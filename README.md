@@ -27,3 +27,10 @@ https://nathanwispinski.ca/assets/models-movements-minds-wispinski-etal-2018.pdf
 
 https://onlinelibrary.wiley.com/doi/pdf/10.1002/bdm.2349
 
+https://youtu.be/pRtGqfYLCFk?si=PzYDZSj8JfGZIaE7
+
+https://youtu.be/pRtGqfYLCFk?si=PzYDZSj8JfGZIaE7
+
+https://youtu.be/x1k37Na1iLc?si=MyldIqbZk-d04bLK
+
+https://youtu.be/SE9RtxkTXO8?si=MoyVTlFGK5GWyI7z
