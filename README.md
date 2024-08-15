@@ -64,7 +64,7 @@ https://kozyrkov.medium.com/what-you-wont-learn-from-books-about-data-and-decisi
 
 https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767
 
-
+https://youtu.be/e4UITudKUNk?si=HYjRSVxzrYlhS-Tz
 
 
 
