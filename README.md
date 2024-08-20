@@ -68,7 +68,7 @@ https://youtu.be/e4UITudKUNk?si=HYjRSVxzrYlhS-Tz
 
 https://youtu.be/4M2FURq9kR8?si=cbjEyj9oKp2Mfw_u
 
-
+https://www.linkedin.com/pulse/how-decision-science-combines-behavioral-data-literacy-david-pidsley-hwg1f
 
 
 
