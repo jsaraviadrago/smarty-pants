@@ -71,7 +71,7 @@ https://youtu.be/4M2FURq9kR8?si=cbjEyj9oKp2Mfw_u
 https://www.linkedin.com/pulse/how-decision-science-combines-behavioral-data-literacy-david-pidsley-hwg1f
 
 
-
+https://www.linkedin.com/pulse/venture-capital-decision-intelligence-new-era-sinjin-wolf-xh7ic/?trackingId=QnLYMKRjG74OR38TEjw%2ByA%3D%3D
 
 
 
