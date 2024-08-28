@@ -1,6 +1,7 @@
-# smarty-pants
+# La guía no oficial de Decision Intelligence
 
 
+<!--
 https://en.wikipedia.org/wiki/Decision_intelligence
 
 https://www.youtube.com/watch?v=x1k37Na1iLc&t=212s
@@ -73,7 +74,7 @@ https://www.linkedin.com/pulse/how-decision-science-combines-behavioral-data-lit
 
 https://www.linkedin.com/pulse/venture-capital-decision-intelligence-new-era-sinjin-wolf-xh7ic/?trackingId=QnLYMKRjG74OR38TEjw%2ByA%3D%3D
 
-
+-->
 
 
 
