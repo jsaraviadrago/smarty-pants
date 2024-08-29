@@ -1,0 +1,241 @@
+\documentclass[a4paper,12pt]{extbook}
+\usepackage{fancyhdr}
+
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{amsmath}
+%\usepackage[some]{background} %From package background
+%\usepackage[nottoc,notlot,notlof]{tocbibind}
+
+\usepackage{epigraph}
+\usepackage{geometry}
+\usepackage{amsmath}
+
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+
+\usepackage{graphicx}
+\usepackage{times}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[utf8]{inputenc}%tildes
+\date{}%sin fecha
+\usepackage{paralist}%listas
+\usepackage[spanish, mexico]{babel}%spanish
+%\usepackage{csquotes}
+%\usepackage[style=ieee]{biblatex}
+
+\usepackage{emptypage}
+\usepackage{multirow}
+\usepackage{enumerate} %enumerate
+\usepackage{icomma}%coma para decimales
+\usepackage{authblk}%autores 
+\usepackage{float}
+\usepackage{caption}
+
+
+\usepackage[pdfborder={0 0 0}, bookmarksopen=true, breaklinks, hyperfootnotes=false]{hyperref}
+\usepackage {bookmark}
+\makeatletter
+%\hypersetup{pdftitle=\@title, pdfauthor=\@author}
+\makeatother
+\usepackage[all]{hypcap}
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+\pagestyle{empty}
+
+\usepackage{tabularx}
+
+
+%\fancypagestyle{plain}{%
+\fancyhf{} % clears headers and footers
+\renewcommand\headrulewidth{0pt} % no line between document and header
+\fancyfoot[EL]{\thepage}% Footer on even pages (E), left (L)
+\fancyfoot[OR]{\thepage}% Footer on odd pages (O), right (R)
+%\renewcommand{\headrulewidth}{0pt}%
+%\renewcommand{\footrulewidth}{0.4pt}
+%}% Sets footer rule to 0pt
+
+\pagestyle{fancy}
+
+%referencias
+%\usepackage{apacite}
+\usepackage{cite}
+
+
+%\renewcommand{\BBAA}{&}  % between authors in parenthetical cites and ref. list
+%\renewcommand{\BBAB}{&}  % between authors in in-text citation
+%\renewcommand{\BAnd}{&}  % for ``Ed. \& Trans.'' in ref. list
+
+%Image path
+%\graphicspath{{"/Users/jsaraviadrago/Documents/MP blog 2021/Book_data/Data_graphs/Graphs/"}}
+
+
+%Margenes
+\usepackage{geometry}
+\geometry{a4paper, tmargin=1.5cm, lmargin=1.5cm, rmargin=1.5cm, bmargin=1.5cm}
+%\geometry{a4paper, tmargin=2.5cm, lmargin=2.5cm, rmargin=2.5cm, bmargin=2.5cm, includehead} 
+%Usar si titulos tienen poco margen arriba
+
+
+\setlength\parindent{0.5in} %sangria parrafos
+\titleformat{\chapter}{\normalfont\Large}{\Large \bf }{20pt}{\Large \bf} 
+\titleformat*{\section}{\large\bfseries} % \center\bfseries con centrado de título
+\titleformat*{\subsection}{\large\bfseries}
+\titleformat*{\subsubsection}{\large\itshape}{}{}{}
+\titleformat*{\paragraph}{\large\bfseries}
+\titleformat*{\subparagraph}{\large\bfseries}
+\titlespacing*{\section}{0pt}{0pt}{12pt}
+\titlespacing*{\subsection}{0pt}{*5}{12pt}
+\titlespacing*{\subsubsection}{0pt}{*5}{12pt}
+
+
+%\definecolor{titlepagecolor}{cmyk}{1,.60,0,.40}
+
+%\backgroundsetup{
+%scale=1,
+%angle=0,
+%opacity=1,
+%contents={\begin{tikzpicture}[remember picture,overlay]
+% \path [fill=titlepagecolor] (current page.west)rectangle (current page.north east); 
+% \draw [color=black, very thick] (5,0)--(5,0.5\paperheight);
+%\end{tikzpicture}}
+%}
+
+\makeatletter                   
+\def\printauthor{%                  
+    {\large\@author}}          
+\makeatother
+
+\author{%
+    \textbf{Juan Carlos Saravia}\\
+    %Twitter: JCsaraviad  \\
+    %\texttt{jsaraviadrago@gmail.com}\vspace{30pt} \\
+    }
+
+\linespread{1.213}
+
+\begin{document}
+
+\pagenumbering{gobble}
+\hypersetup{pageanchor=false}
+
+\begin{titlepage}
+%\includegraphics[scale = 0.40]{C:/Users/JuanCarlosSaraviaDra/Dropbox/Tempo/images}\par\vspace{0cm}
+\newgeometry{left=3cm,right=3cm,bottom=2cm}
+\vspace*{0.1\textheight}
+\noindent
+\center
+\textcolor{black}{\LARGE\textbf{\textsf{Un cuento de fútbol}}}
+\vspace*{0.5cm}\par
+\noindent
+{\LARGE\itshape \printauthor\par}
+\vfill
+
+\begin{figure}[ht]
+
+\centering
+\includegraphics[width=10cm, height=5cm]{C:/Users/JuanCarlosSaraviaDra/Dropbox/Tempo/images}
+\caption{}
+\end{figure}
+
+
+\end{titlepage}
+\restoregeometry
+
+
+
+
+%\input{prefacio}
+%\input{Agradecimientos}
+
+%\tableofcontents
+\clearpage
+\hypersetup{pageanchor=true}
+\pagenumbering{arabic}
+
+
+%\input{Introduccion}
+
+
+
+
+%\clearpage
+%\thispagestyle{plain}
+%\par\vspace*{.35\textheight}{\LARGE\centering \textbf{
+%La versión del mismo cuento con y sin IA} \par}
+
+\input{cap1}
+%\input{historia2}
+%\input{Cap1_1}
+%\input{Cap1_2}
+%\input{Cap1_3}
+%\input{Cap1_4}
+
+%\clearpage
+%\thispagestyle{plain}
+%\par\vspace*{.35\textheight}{\LARGE\centering \textbf{
+%Goles, equipos e historias} \par}
+
+%\input Cap2_2
+%\input{Cap2_3}
+%\input{Cap2_4}
+%\input{Cap2_5}
+
+%\clearpage
+%\thispagestyle{plain}
+%\par\vspace*{.35\textheight}{\LARGE\centering \textbf{
+%Las aventuras dentro de la cancha} \par}
+
+%\input{Cap3_1}
+%\input{Cap3_2}
+%\input{Cap3_3}
+
+
+%\clearpage
+%\thispagestyle{plain}
+%\par\vspace*{.35\textheight}{\LARGE\centering \textbf{
+%Tu guía para el Mundial de Catar 2022} \par}
+
+%\input{cap4}
+%\input{cap5}
+
+
+%\appendix
+%\include{ape1}
+
+%\clearpage
+%\thispagestyle{plain}
+%\par\vspace*{.35\textheight}{\LARGE\centering \textbf{
+%Perú historia de un grupo de guerreros } \par}
+
+%\input{cap5_1}
+%\input{epilogo}
+%\input{epilogo_2} 
+%\input{epilogo_3}
+%\input{epilogo_final}      
+
+% Bibliografía
+%\backmatter \singlespacing   % espacio simple
+
+
+%\bibliography{bibliografia}
+%\bibliographystyle{plain} % arreglar esto
+
+%\clearpage
+%\thispagestyle{plain}
+%\par\vspace*{.35\textheight}{
+
+%El libro \textit{El Fútbol es Matemáticamente Posible} tiene como objetivo juntar la pasión por el fútbol con el mundo del análisis de datos. 
+%El espíritu del libro es enamorar y sorprender a los fanáticos con estadísticas y datos escondidos que jamás se podrían haber imaginado.  
+%Invita al lector a tener una experiencia más completa del fútbol, descubriendo anécdotas de los mundiales dignas de compartir con los demás.  Los resultados de los mundiales cobrarán vida y se entregarán a la historia del fútbol.
+%Este libro es mucho más que una simple recopilación de datos. Busca ser una guía imperdible de los mundiales. Una colección de historias, tácticas y pasión futbolística sustentada con estadística que permitirán cuestionar la forma en que vemos el fútbol hoy.
+%Las selecciones mundialistas utilizan estrategias diversas que a simple vista no notamos, los datos nos pueden dar luces de ellas. Este libro busca convertirse en una lámpara para ver esas estrategias, rompiendo creencias sobre equipos y sorprendiendo al lector con hallazgos numéricos impensados. De este modo, demostrar que el \textit{Fútbol es Matemáticamente Posible}.
+%\par}
+
+\end{document}
