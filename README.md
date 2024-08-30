@@ -2,6 +2,8 @@
 
 
 <!--
+https://www.linkedin.com/pulse/gartner-says-ai-ready-decision-intelligence-market-david-pidsley-adpne?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
+
 https://en.wikipedia.org/wiki/Decision_intelligence
 
 https://www.youtube.com/watch?v=x1k37Na1iLc&t=212s
