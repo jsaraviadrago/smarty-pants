@@ -78,6 +78,8 @@ https://www.linkedin.com/pulse/venture-capital-decision-intelligence-new-era-sin
 
 https://decisioncamp2024.wordpress.com/program/#ArashAghlara
 
+https://m.youtube.com/watch?si=OSYpYNqa9xNXAqtI&v=SwfV0gkuhxo&feature=youtu.be
+
 -->
 
 
