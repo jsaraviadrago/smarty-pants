@@ -76,6 +76,8 @@ https://www.linkedin.com/pulse/how-decision-science-combines-behavioral-data-lit
 
 https://www.linkedin.com/pulse/venture-capital-decision-intelligence-new-era-sinjin-wolf-xh7ic/?trackingId=QnLYMKRjG74OR38TEjw%2ByA%3D%3D
 
+https://decisioncamp2024.wordpress.com/program/#ArashAghlara
+
 -->
 
 
