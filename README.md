@@ -2,6 +2,10 @@
 
 
 <!--
+https://alicethearchitect.medium.com/what-makes-a-good-decision-maker-2e88f0fb02f0
+
+https://kozyrkov.medium.com/why-quitting-your-job-might-be-the-best-decision-youve-ever-made-4949b62ad319
+
 https://www.linkedin.com/pulse/gartner-says-ai-ready-decision-intelligence-market-david-pidsley-adpne?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
 
 https://en.wikipedia.org/wiki/Decision_intelligence
